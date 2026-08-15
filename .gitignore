@@ -219,3 +219,5 @@ __marimo__/
 
 # Generated analysis outputs
 outputs/
+scripts/01_Mechanical_feasibility/*.xlsx
+plots/
